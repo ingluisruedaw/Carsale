@@ -1,0 +1,30 @@
+body{
+	background: url(../images/car1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;background-size: cover;
+}
+
+#fondo{
+	background: url(../images/car1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;background-size: cover;
+}
+
+#white{
+	color: white;
+}
+
+#oscurecer{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.centrado-porcentual {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+

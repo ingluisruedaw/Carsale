@@ -1,0 +1,20 @@
+#titulos{
+	font-weight: bold;
+	text-align: center;
+}
+
+#centrar{
+	text-align: center;
+}
+
+#total{
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#total2{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
